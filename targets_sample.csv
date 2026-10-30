@@ -1,0 +1,6 @@
+source_ip,destination_ip,protocol,destination_port,source_type,source_subnet_id,destination_type,destination_subnet_id,source_port
+192.168.10.10,10.0.1.10,TCP,22,ON_PREM,,OCI,,
+192.168.10.10,10.0.1.10,TCP,443,ON_PREM,,OCI,,
+10.0.1.10,192.168.10.20,TCP,3389,OCI,,ON_PREM,,
+10.0.1.10,10.0.2.10,UDP,53,OCI,ocid1.subnet.oc1..exampleSource,OCI,ocid1.subnet.oc1..exampleDestination,
+
