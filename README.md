@@ -1,0 +1,1 @@
+# oci-npa-cli-command-generator
